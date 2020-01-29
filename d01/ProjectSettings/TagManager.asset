@@ -10,6 +10,8 @@ TagManager:
   - redgoal
   - bluegoal
   - yellowgoal
+  - teleportIn
+  - teleportOut
   layers:
   - Default
   - TransparentFX
