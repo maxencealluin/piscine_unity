@@ -12,6 +12,8 @@ TagManager:
   - yellowgoal
   - teleportIn
   - teleportOut
+  - movingPlatform
+  - button
   layers:
   - Default
   - TransparentFX

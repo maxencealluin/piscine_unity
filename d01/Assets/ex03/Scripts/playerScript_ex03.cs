@@ -56,7 +56,6 @@ public class playerScript_ex03 : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D collider){
-		Debug.Log ("COLLISION");
 		if (collider.gameObject.tag == "movingPlatform") {
 			this.transform.SetParent (collider.gameObject.transform); 
 		}
